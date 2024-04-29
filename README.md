@@ -8,12 +8,12 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Videogames
 
--👋 Hola, soy @AdaelRuiz83
--🌎 Nacionalidad: México
--👀 Estoy interesado en el desarrollo de emuladores, videojuegos y realidad aumentada
--🌱 Actualmente estoy aprendiendo json, c++, c, markdown.
--🎓 Especialización: C/C++
--💞️ Estoy buscando colaborar con empresas de videojuegos
--📫 Cómo contactarme: encuéntrame
--😄 Pronombres: Él
--⚡ Dato curioso: Los videojuegos
+- 👋 Hola, soy @AdaelRuiz83
+- 🌎 Nacionalidad: México
+- 👀 Estoy interesado en el desarrollo de emuladores, videojuegos y realidad aumentada
+- 🌱 Actualmente estoy aprendiendo json, c++, c, markdown.
+- 🎓 Especialización: C/C++
+- 💞️ Estoy buscando colaborar con empresas de videojuegos
+- 📫 Cómo contactarme: encuéntrame
+- 😄 Pronombres: Él
+- ⚡ Dato curioso: Los videojuegos
