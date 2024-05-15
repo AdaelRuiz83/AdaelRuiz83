@@ -1,3 +1,4 @@
+# AdaelRuiz
 - 👋 Hi, I’m @AdaelRuiz83
 - 🌎Nationality: Mexico
 - 👀 I’m interested in emulator development, video games, augmented reality
@@ -8,11 +9,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Videogames
 
-
-
-
-
-
+# AdaelRuiz
 - 👋 Hola, soy @AdaelRuiz83
 - 🌎 Nacionalidad: México
 - 👀 Estoy interesado en el desarrollo de emuladores, videojuegos y realidad aumentada
