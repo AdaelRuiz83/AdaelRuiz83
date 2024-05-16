@@ -19,3 +19,8 @@
 - 📫 Cómo contactarme: encuéntrame
 - 😄 Pronombres: Él
 - ⚡ Dato curioso: Los videojuegos
+
+# Bienvenidos a mi espacio
+
+Aqui voy a subir todo lo referente a mis proyectos y esperando a que esto sea pronto
+un portafolio de evidencias.
