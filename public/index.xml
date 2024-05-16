@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Personal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog Personal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 17:19:27 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 16 May 2024 17:19:27 -0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>AdaelRuiz 👋 Hi, I’m @AdaelRuiz83 🌎Nationality: Mexico 👀 I’m interested in emulator development, video games, augmented reality 🌱 I’m currently learning json, c++, c, markdown. 🎓 Specialization: C/C++ 💞️ I’m looking to collaborate on video game companies 📫 How to reach me find me 😄 Pronouns: He ⚡ Fun fact: Videogames AdaelRuiz 👋 Hola, soy @AdaelRuiz83 🌎 Nacionalidad: México 👀 Estoy interesado en el desarrollo de emuladores, videojuegos y realidad aumentada 🌱 Actualmente estoy aprendiendo json, c++, c, markdown.</description>
+    </item>
+    <item>
+      <title>Presentacion</title>
+      <link>http://localhost:1313/posts/presentacion/</link>
+      <pubDate>Thu, 16 May 2024 16:26:56 -0600</pubDate>
+      <guid>http://localhost:1313/posts/presentacion/</guid>
+      <description>Mi camino como programador Estoy aprendiendo a hacer esto</description>
+    </item>
+  </channel>
+</rss>
