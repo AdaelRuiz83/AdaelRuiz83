@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Personal</title>
-    <link>https://adaelruiz83.github.io/AdaelRuiz83/public/</link>
+    <link>https://adaelruiz83.github.io/AdaelRuiz83/</link>
     <description>Recent content on Blog Personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 May 2024 16:26:56 -0600</lastBuildDate>
-    <atom:link href="https://adaelruiz83.github.io/AdaelRuiz83/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adaelruiz83.github.io/AdaelRuiz83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentacion</title>
-      <link>https://adaelruiz83.github.io/AdaelRuiz83/public/posts/presentacion/</link>
+      <link>https://adaelruiz83.github.io/AdaelRuiz83/posts/presentacion/</link>
       <pubDate>Thu, 16 May 2024 16:26:56 -0600</pubDate>
-      <guid>https://adaelruiz83.github.io/AdaelRuiz83/public/posts/presentacion/</guid>
+      <guid>https://adaelruiz83.github.io/AdaelRuiz83/posts/presentacion/</guid>
       <description>Mi camino como programador Estoy aprendiendo a hacer esto</description>
     </item>
   </channel>
